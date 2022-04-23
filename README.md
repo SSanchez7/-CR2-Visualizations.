@@ -5,7 +5,7 @@
  
  The final presentation is in `Visualizaciones CR2_FINAL.pfd` file.
  
- Files "Visualizaciones_CR2 Preprocesado.html" and "Visualizaciones_CR2 Visualizaciones.html" contain part of the preprocessing and visualization work respectively.
+ Files `Visualizaciones_CR2 Preprocesado.html` and `Visualizaciones_CR2 Visualizaciones.html` contain part of the preprocessing and visualization work respectively.
 
  The dataset `big_data.csv` are not in the repository due to their large size.
 
