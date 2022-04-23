@@ -4,4 +4,7 @@
  This project was carried out in conjunction with Felipe Sanhueza, Benjamin Bustos and Maximiliano Aguilar.
  
  The final presentation is in `Visualizaciones CR2_FINAL.pfd` file.
+ 
+ The dataset `big_data.csv` are not in the repository due to their large size.
+
 
